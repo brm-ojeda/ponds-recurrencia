@@ -69,6 +69,10 @@ select{
     background-color: #1995a2;
 }
 
+.canasta{
+	margin-top: 8%;
+}
+
 .cont{
 	border-bottom: 1px solid #e5e5e5;
 	padding: 2rem 0;

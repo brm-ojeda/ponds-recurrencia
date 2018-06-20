@@ -62,7 +62,7 @@ select{
 }
 
 .btn-recurrence-dos:hover{
-	background-color: #1995a2; 
+	background-color: #1995a2;
 }
 
 .btn-active{
@@ -83,7 +83,7 @@ select{
 }
 
 .cont p{
-	margin: 2rem 0; 
+	margin: 2rem 0;
 }
 
 .cont-pago{
@@ -258,6 +258,10 @@ select.form-control-p{
 
 	.btn-recurrence-tres{
 		width: 90%;
+	}
+
+	.canasta{
+		margin-top: 0; 
 	}
 
 	.cont{
